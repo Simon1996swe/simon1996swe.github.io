@@ -39,12 +39,13 @@ nav {
 
 			nav ul li a:hover {
 				color: #4ade80;
+				text-shadow: 0 0 10px #22c55e;
 			}
 
 /* Sections */
 section {
 	padding: 4rem 2rem;
-	max-width: 900px;
+	max-width: 1100px;
 	margin: auto;
 }
 
@@ -62,12 +63,43 @@ section {
 }
 
 	.hero h1 {
-		font-size: 2.5rem;
+		font-size: 3rem;
 		margin-bottom: 1rem;
+		color: #4ade80;
+		text-shadow: 0 0 20px #22c55e;
 	}
 
 	.hero p {
-		font-size: 1.2rem;
+		font-size: 1.3rem;
+		color: #9ca3af;
+	}
+
+/* Blog cards */
+.blog-cards {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 20px;
+}
+
+.blog-card {
+	background: #161b22;
+	padding: 1.5rem;
+	border-radius: 10px;
+	box-shadow: 0 0 15px rgba(0, 255, 128, 0.1);
+	transition: transform 0.2s, box-shadow 0.2s;
+}
+
+	.blog-card:hover {
+		transform: translateY(-5px);
+		box-shadow: 0 0 25px rgba(0, 255, 128, 0.2);
+	}
+
+	.blog-card h3 {
+		margin-top: 0;
+		color: #4ade80;
+	}
+
+	.blog-card p {
 		color: #9ca3af;
 	}
 
@@ -82,7 +114,32 @@ section {
 .tradingview-widget-container {
 	width: 100%;
 	height: 300px;
+	border-radius: 8px;
+	overflow: hidden;
+	box-shadow: 0 0 15px rgba(0, 255, 128, 0.1);
+	transition: box-shadow 0.2s;
 }
+
+	.tradingview-widget-container:hover {
+		box-shadow: 0 0 25px rgba(0, 255, 128, 0.2);
+	}
+
+/* Buttons */
+button {
+	background: #4ade80;
+	border: none;
+	padding: 8px 15px;
+	color: #0d1117;
+	font-weight: bold;
+	border-radius: 6px;
+	cursor: pointer;
+	transition: all 0.2s;
+}
+
+	button:hover {
+		background: #22c55e;
+		box-shadow: 0 0 15px #22c55e;
+	}
 
 /* Footer */
 footer {
@@ -90,4 +147,5 @@ footer {
 	padding: 2rem;
 	background: #161b22;
 	color: #9ca3af;
+	margin-top: 2rem;
 }
