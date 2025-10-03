@@ -5,44 +5,77 @@ body {
 	color: #e6edf3;
 }
 
-/* Navbar */
+/* Navbar base */
 nav {
-	background: #161b22;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	padding: 1rem 2rem;
-	position: sticky;
-	top: 0;
-	z-index: 100;
-	flex-wrap: wrap; /* 🔥 gör så att den bryts snyggt */
+  background: #161b22;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  flex-wrap: wrap; /* gör att menyn kan brytas */
 }
 
+nav h1 {
+  margin: 0;
+  font-size: clamp(1.2rem, 2vw, 1.6rem);
+  color: #4ade80;
+}
 
-	nav h1 {
-		margin: 0;
-		font-size: 1.5rem;
-		color: #4ade80; /* green vibe */
-	}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+}
 
-	nav ul {
-		list-style: none;
-		display: flex;
-		gap: 1.5rem;
-		margin: 0;
-		padding: 0;
-	}
+nav ul li a {
+  font-size: clamp(0.9rem, 1.5vw, 1.1rem);
+  color: #e6edf3;
+  text-decoration: none;
+  transition: color 0.2s;
+}
 
-		nav ul li a {
-			color: #e6edf3;
-			text-decoration: none;
-			transition: color 0.2s;
-		}
+nav ul li a:hover {
+  color: #4ade80;
+  text-shadow: 0 0 10px #22c55e;
+}
 
-			nav ul li a:hover {
-				color: #4ade80;
-				text-shadow: 0 0 10px #22c55e;
-			}
+/* Hamburger menu (mobil) */
+.menu-toggle {
+  display: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+  color: #4ade80;
+}
+
+/* Mobilanpassning */
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  nav ul {
+    display: none; /* göm tills man klickar */
+    flex-direction: column;
+    width: 100%;
+    gap: 0.8rem;
+    margin-top: 10px;
+  }
+
+  nav ul.show {
+    display: flex;
+  }
+}
+
 
 /* Sections */
 section {
