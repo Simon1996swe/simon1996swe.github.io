@@ -1,1 +1,31 @@
+# === Visual Studio / VSCode ===
 .vs/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Python virtual environments ===
+env/
+venv/
+ENV/
+.venv/
+
+# === OS filer ===
+.DS_Store
+Thumbs.db
+
+# === Logs & caches ===
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# === Secrets / API keys ===
+.env
+*.env
+
