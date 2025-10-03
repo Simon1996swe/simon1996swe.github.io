@@ -28,6 +28,11 @@
         <p>Sharing my journey in the stock market and tech world 🚀</p>
     </section>
 
+    <section id="ai-stock-alerts">
+        <h2>📈 Senaste aktie-nyheterna</h2>
+        <div id="alerts"></div>
+    </section>
+    
     <!-- Market Dashboard -->
     <section id="dashboard">
         <h2>Market Dashboard</h2>
@@ -84,5 +89,29 @@
     <!-- Scripts -->
     <script src="https://s3.tradingview.com/tv.js"></script>
     <script src="javascript.js"></script>
+    <script>
+    async function loadAlerts() {
+      try {
+        let res = await fetch("alerts.json?" + Date.now()); // cache-bust
+        let data = await res.json();
+        let container = document.getElementById("alerts");
+        container.innerHTML = "";
+        data.forEach(alert => {
+          let div = document.createElement("div");
+          div.className = "alert";
+          div.innerHTML = `
+            <strong>${alert.stock}</strong>: 
+            <a href="${alert.url}" target="_blank">${alert.title}</a>
+            <div class="timestamp">${new Date(alert.timestamp).toLocaleString()}</div>
+          `;
+          container.appendChild(div);
+        });
+      } catch (err) {
+        document.getElementById("alerts").innerHTML = "<p>Inga alerts just nu.</p>";
+      }
+    }
+    loadAlerts();
+    setInterval(loadAlerts, 60000); // uppdatera varje minut
+  </script>
 </body>
 </html>
