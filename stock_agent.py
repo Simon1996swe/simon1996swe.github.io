@@ -11,7 +11,8 @@ NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 GITHUB_REPO_PATH = "."  # kör i repo-root när Actions kör
 TRACKED_STOCKS = ["Nvidia", "Intel", "Novo Nordisk", "CrowdStrike"]
 
-NEWS_SOURCES = "bbc-news,bloomberg,reuters,financial-times,cnbc"
+NEWS_SOURCES = "bloomberg,business-insider,cnbc,financial-post,fortune,reuters,the-wall-street-journal,the-economist"
+
 
 IMPORTANT_KEYWORDS = [
     "earnings", "profit", "guidance", "revenue", 
