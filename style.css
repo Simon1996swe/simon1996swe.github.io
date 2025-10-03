@@ -176,6 +176,12 @@ footer {
 	border-radius: 10px; 
 	margin-bottom: 10px; 
 	box-shadow: 0 0 10px rgba(0, 255, 128, 0.05);
+	line-height: 1.4em;
+}
+
+.alert strong { 
+	color: #4ade80; 
+	font-size: 1.1em; 
 }
 
 .alert a { 
@@ -192,4 +198,7 @@ footer {
 .timestamp { 
 	font-size: 0.8em; 
 	color: #9ca3af; 
+	margin-top: 5px; 
+	display: block;
 }
+
