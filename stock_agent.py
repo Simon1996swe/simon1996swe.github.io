@@ -68,12 +68,13 @@ def update_github_alert(stock, title, url, keyword):
     with open(file_path, "w") as f:
         json.dump(alerts[:50], f, indent=2)
 
-    # commit ändringen
+    # commit ändringen, men trigga INTE ny CI
     repo = Repo(GITHUB_REPO_PATH)
     repo.git.add("alerts.json")
-    repo.index.commit(f"Update alerts {datetime.now().isoformat()}")
+    repo.index.commit(f"Update alerts {datetime.now().isoformat()} [skip ci]")
     origin = repo.remote(name="origin")
     origin.push()
+
 
 # === MAIN LOOP ===
 if __name__ == "__main__":
