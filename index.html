@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <canvas id="candles-bg"></canvas>
 <!-- Navbar -->
     <nav>
     <div class="brand">
@@ -119,11 +120,12 @@
     setInterval(loadAlerts, 60000); // uppdatera varje minut
   </script>
 
-  <script>
+<script>
 function toggleMenu() {
   document.getElementById("nav-links").classList.toggle("show");
 }
 </script>
 
+<script src="candles.js"></script>
 </body>
 </html>
