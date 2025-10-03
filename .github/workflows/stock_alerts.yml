@@ -1,0 +1,29 @@
+name: Stock Alerts Bot
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # kör varje hel timme
+  workflow_dispatch:      # gör att du kan köra manuellt
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.12"
+
+    - name: Install dependencies
+      run: |
+        pip install requests gitpython
+
+    - name: Run script
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+      run: python stock_agent.py
