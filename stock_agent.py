@@ -59,11 +59,6 @@ def save_alerts(alerts):
     with open(file_path, "w") as f:
         json.dump(alerts[:50], f, indent=2)
 
-    repo = Repo(GITHUB_REPO_PATH)
-    repo.git.add("alerts.json")
-    repo.index.commit(f"Update alerts {datetime.now().isoformat()} [skip ci]")
-    origin = repo.remote(name="origin")
-    origin.push()
 
 # === HÄMTA NYHETER ===
 def get_news(query):
