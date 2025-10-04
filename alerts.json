@@ -1,3 +1,13 @@
 [
-  { "status": "RESET", "timestamp": "2025-10-04T12:00:00" }
+  {
+    "stock": "Coca-Cola",
+    "keyword": "BAN",
+    "title": "Billionaire who sold two companies to Coca-Cola says he tries to convince people not to become entrepreneurs: \u2018Every single day, you can go bankrupt\u2019",
+    "url": "https://fortune.com/2025/09/12/mike-repole-career-advice-dont-be-an-entrepreneur-glaceau-bodyarmor-coca-cola/",
+    "timestamp": "2025-10-04T23:20:32.167516"
+  },
+  {
+    "status": "RESET",
+    "timestamp": "2025-10-04T12:00:00"
+  }
 ]
