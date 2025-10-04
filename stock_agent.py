@@ -9,7 +9,34 @@ DISCORD_WEBHOOK = os.getenv("DISCORD_WEBHOOK")
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 
 GITHUB_REPO_PATH = "."  # kör i repo-root när Actions kör
-TRACKED_STOCKS = ["Nvidia", "Intel", "Novo Nordisk", "CrowdStrike"]
+TRACKED_STOCKS = [
+    "Alphabet Inc Class A",
+    "Apotea",
+    "Black Hills",
+    "Broadcom",
+    "Cleveland-Cliffs",
+    "Coca-Cola",
+    "CrowdStrike",
+    "EQT",
+    "Frequency Electronics",
+    "Insplorion",
+    "Intel",
+    "Joby Aviation",
+    "Nebius Group",
+    "nVent Electric",
+    "NVIDIA",
+    "Phillips 66",
+    "POET Technologies",
+    "Porsche Automobil Holding SE",
+    "Rheinmetall",
+    "Richetto Robotics",
+    "Rusta",
+    "SAAB B",
+    "Sony ADR",
+    "Take-Two Interactive Software",
+    "WeRide"
+]
+
 
 NEWS_SOURCES = "bloomberg,business-insider,cnbc,financial-post,fortune,reuters,the-wall-street-journal,the-economist"
 
