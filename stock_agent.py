@@ -37,7 +37,6 @@ TRACKED_STOCKS = [
     "WeRide"
 ]
 
-
 NEWS_SOURCES = "bloomberg,business-insider,cnbc,financial-post,fortune,reuters,the-wall-street-journal,the-economist"
 
 IMPORTANT_KEYWORDS = [
@@ -68,17 +67,17 @@ def save_alerts(alerts):
 
 # === HÄMTA NYHETER ===
 def get_news(query):
-        if not NEWSAPI_KEY:
-            return []
-        url = f"https://newsapi.org/v2/everything?q={query}&sortBy=publishedAt&language=en&sources={NEWS_SOURCES}&apiKey={NEWSAPI_KEY}"
-        resp = requests.get(url, timeout=20)
-        if resp.status_code == 200:
-            return resp.json()["articles"][:10]
+    if not NEWSAPI_KEY:
         return []
+    url = f"https://newsapi.org/v2/everything?q={query}&sortBy=publishedAt&language=en&sources={NEWS_SOURCES}&apiKey={NEWSAPI_KEY}"
+    resp = requests.get(url, timeout=20)
+    if resp.status_code == 200:
+        return resp.json()["articles"][:10]
+    return []
 
 # === KOLLA OM NYHETEN ÄR RELEVANT ===
 def get_matching_keyword(article, stock):
-    text = (article["title"] + " " + (article.get("description") or "")).lower()
+    text = (article.get("title", "") + " " + (article.get("description") or "")).lower()
     stock_lower = stock.lower()
     for word in IMPORTANT_KEYWORDS:
         if stock_lower in text and word in text:
@@ -99,23 +98,31 @@ def send_discord_alert(stock, title, url, keyword):
 # === MAIN LOOP ===
 if __name__ == "__main__":
     existing_alerts = load_existing_alerts()
-    existing_urls = {alert["url"] for alert in existing_alerts}  # set för snabb lookup
 
-    new_alerts = []  # tillfällig lista för nya alert
+    # ✅ FIX: skydda mot saknade URL-fält
+    existing_urls = {alert.get("url") for alert in existing_alerts if alert.get("url")}
+
+    new_alerts = []
 
     for stock in TRACKED_STOCKS:
         articles = get_news(stock)
         for art in articles:
+            url = art.get("url")
+            title = art.get("title")
+
+            if not url or not title:
+                continue  # hoppa över trasiga artiklar
+
             keyword = get_matching_keyword(art, stock)
-            if keyword and art["url"] not in existing_urls:  # ✅ Skippa duplicates
-                print("Ny alert hittad:", art["title"])
-                send_discord_alert(stock, art["title"], art["url"], keyword)
+            if keyword and url not in existing_urls:
+                print("Ny alert hittad:", title)
+                send_discord_alert(stock, title, url, keyword)
 
                 new_alerts.insert(0, {
                     "stock": stock,
                     "keyword": keyword,
-                    "title": art["title"],
-                    "url": art["url"],
+                    "title": title,
+                    "url": url,
                     "timestamp": datetime.now().isoformat()
                 })
 
