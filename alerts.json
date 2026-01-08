@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "REVENUE",
+    "title": "Nvidia Says Its Revenue Forecast Has Only Grown More Bullish",
+    "url": "https://financialpost.com/pmn/business-pmn/nvidia-says-its-revenue-forecast-has-only-grown-more-bullish",
+    "timestamp": "2026-01-08T09:35:05.283004"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "PROFIT",
     "title": "Nvidia\u2019s Groq bet shows that the economics of AI chip-building are still unsettled",
     "url": "https://fortune.com/2025/12/30/nvidias-groq-bet-shows-that-the-economics-of-ai-chip-building-are-still-unsettled/",
@@ -341,9 +348,5 @@
     "title": "Billionaire who sold two companies to Coca-Cola says he tries to convince people not to become entrepreneurs: \u2018Every single day, you can go bankrupt\u2019",
     "url": "https://fortune.com/2025/09/12/mike-repole-career-advice-dont-be-an-entrepreneur-glaceau-bodyarmor-coca-cola/",
     "timestamp": "2025-10-04T23:20:32.167516"
-  },
-  {
-    "status": "RESET",
-    "timestamp": "2025-10-04T12:00:00"
   }
 ]
