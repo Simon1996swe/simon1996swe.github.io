@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "ACQUISITION",
+    "title": "AI has been all about GPUs. That's changing fast.",
+    "url": "https://www.businessinsider.com/nvidia-groq-gpus-ipus-hot-commodity-ai-2026-1",
+    "timestamp": "2026-01-09T14:30:29.157379"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "REVENUE",
     "title": "Nvidia Says Its Revenue Forecast Has Only Grown More Bullish",
     "url": "https://financialpost.com/pmn/business-pmn/nvidia-says-its-revenue-forecast-has-only-grown-more-bullish",
@@ -341,12 +348,5 @@
     "title": "US Stocks Gain as China Tensions Ease, Broadcom Inks OpenAI Deal",
     "url": "https://financialpost.com/pmn/business-pmn/us-stocks-gain-as-china-tensions-ease-broadcom-inks-openai-deal",
     "timestamp": "2025-10-14T15:27:15.439434"
-  },
-  {
-    "stock": "Coca-Cola",
-    "keyword": "BAN",
-    "title": "Billionaire who sold two companies to Coca-Cola says he tries to convince people not to become entrepreneurs: \u2018Every single day, you can go bankrupt\u2019",
-    "url": "https://fortune.com/2025/09/12/mike-repole-career-advice-dont-be-an-entrepreneur-glaceau-bodyarmor-coca-cola/",
-    "timestamp": "2025-10-04T23:20:32.167516"
   }
 ]
