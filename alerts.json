@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "TARIFF",
+    "title": "U.S. sets 25% tariff on some chip sales as part of Nvidia deal",
+    "url": "https://financialpost.com/news/u-s-sets-tariff-on-chip-sales",
+    "timestamp": "2026-01-15T22:28:40.942229"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "ACQUISITION",
     "title": "AI has been all about GPUs. That's changing fast.",
     "url": "https://www.businessinsider.com/nvidia-groq-gpus-ipus-hot-commodity-ai-2026-1",
@@ -341,12 +348,5 @@
     "title": "Steelmaker Cleveland-Cliffs Is Exploring for Rare Earth Metals in the US",
     "url": "https://financialpost.com/pmn/business-pmn/steelmaker-cleveland-cliffs-is-exploring-for-rare-earth-metals-in-the-us",
     "timestamp": "2025-10-21T20:28:30.963038"
-  },
-  {
-    "stock": "Broadcom",
-    "keyword": "TARIFF",
-    "title": "US Stocks Gain as China Tensions Ease, Broadcom Inks OpenAI Deal",
-    "url": "https://financialpost.com/pmn/business-pmn/us-stocks-gain-as-china-tensions-ease-broadcom-inks-openai-deal",
-    "timestamp": "2025-10-14T15:27:15.439434"
   }
 ]
