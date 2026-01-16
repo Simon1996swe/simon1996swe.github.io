@@ -2,6 +2,13 @@
   {
     "stock": "NVIDIA",
     "keyword": "TARIFF",
+    "title": "Trump places a 25% tariff on high-end computing chips, and said more duties may be coming for the semiconductor industry",
+    "url": "https://www.businessinsider.com/trump-tariff-high-end-computing-chip-imports-nvidia-amd-2026-1",
+    "timestamp": "2026-01-16T21:27:22.226834"
+  },
+  {
+    "stock": "NVIDIA",
+    "keyword": "TARIFF",
     "title": "U.S. sets 25% tariff on some chip sales as part of Nvidia deal",
     "url": "https://financialpost.com/news/u-s-sets-tariff-on-chip-sales",
     "timestamp": "2026-01-15T22:28:40.942229"
@@ -341,12 +348,5 @@
     "title": "Dow futures rally as Trump softens tone on trade war again while first tech earnings and inflation report loom",
     "url": "https://fortune.com/2025/10/19/stock-market-today-dow-futures-trump-trade-war-tech-earnings-inflation-cpi-report/",
     "timestamp": "2025-10-21T20:28:32.285878"
-  },
-  {
-    "stock": "Cleveland-Cliffs",
-    "keyword": "EARNINGS",
-    "title": "Steelmaker Cleveland-Cliffs Is Exploring for Rare Earth Metals in the US",
-    "url": "https://financialpost.com/pmn/business-pmn/steelmaker-cleveland-cliffs-is-exploring-for-rare-earth-metals-in-the-us",
-    "timestamp": "2025-10-21T20:28:30.963038"
   }
 ]
