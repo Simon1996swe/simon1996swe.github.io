@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "ACQUISITION",
+    "title": "Earlyworks Closes Acquisition and Rebrands as Perpetuals.com (NASDAQ: PDC), Targeting the Multi-Trillion-Dollar Global Derivatives Market",
+    "url": "https://financialpost.com/globe-newswire/earlyworks-closes-acquisition-and-rebrands-as-perpetuals-com-nasdaq-pdc-targeting-the-multi-trillion-dollar-global-derivatives-market",
+    "timestamp": "2026-01-21T17:03:23.079350"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "TARIFF",
     "title": "Trump places a 25% tariff on high-end computing chips, and said more duties may be coming for the semiconductor industry",
     "url": "https://www.businessinsider.com/trump-tariff-high-end-computing-chip-imports-nvidia-amd-2026-1",
@@ -341,12 +348,5 @@
     "title": "Cleveland-Cliffs Gets Steel-Tariff Boost, Looks to Rare-Earth Minerals",
     "url": "https://www.wsj.com/business/earnings/cleveland-cliffs-revenue-rises-boosted-by-steel-tariffs-11ed6b04",
     "timestamp": "2025-10-21T23:23:17.485894"
-  },
-  {
-    "stock": "Intel",
-    "keyword": "EARNINGS",
-    "title": "Dow futures rally as Trump softens tone on trade war again while first tech earnings and inflation report loom",
-    "url": "https://fortune.com/2025/10/19/stock-market-today-dow-futures-trump-trade-war-tech-earnings-inflation-cpi-report/",
-    "timestamp": "2025-10-21T20:28:32.285878"
   }
 ]
