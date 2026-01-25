@@ -1,5 +1,12 @@
 [
   {
+    "stock": "Intel",
+    "keyword": "EARNINGS",
+    "title": "Intel is the latest AI chipmaker to buckle under the weight of massive expectations",
+    "url": "https://www.businessinsider.com/intel-stock-price-q4-earnings-ai-demand-intc-tech-stocks-2026-1",
+    "timestamp": "2026-01-25T06:40:52.999633"
+  },
+  {
     "stock": "NVIDIA",
     "keyword": "ACQUISITION",
     "title": "Earlyworks Closes Acquisition and Rebrands as Perpetuals.com (NASDAQ: PDC), Targeting the Multi-Trillion-Dollar Global Derivatives Market",
@@ -341,12 +348,5 @@
     "title": "Intel CFO says CEO Lip-Bu Tan is big on balance sheet discipline as U.S. and Nvidia funding accelerate turnaround",
     "url": "https://fortune.com/2025/10/24/intel-cfo-says-ceo-lip-bu-tan-balance-sheet-discipline-u-s-nvidia-funding-accelerate-turnaround/",
     "timestamp": "2025-10-25T12:45:05.907087"
-  },
-  {
-    "stock": "Cleveland-Cliffs",
-    "keyword": "TARIFF",
-    "title": "Cleveland-Cliffs Gets Steel-Tariff Boost, Looks to Rare-Earth Minerals",
-    "url": "https://www.wsj.com/business/earnings/cleveland-cliffs-revenue-rises-boosted-by-steel-tariffs-11ed6b04",
-    "timestamp": "2025-10-21T23:23:17.485894"
   }
 ]
