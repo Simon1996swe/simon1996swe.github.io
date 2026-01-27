@@ -1,5 +1,12 @@
 [
   {
+    "stock": "NVIDIA",
+    "keyword": "FORECAST",
+    "title": "Nvidia Launches AI Technologies to Aid Weather Forecasting",
+    "url": "https://financialpost.com/pmn/business-pmn/nvidia-launches-ai-technologies-to-aid-weather-forecasting",
+    "timestamp": "2026-01-27T17:34:29.513775"
+  },
+  {
     "stock": "Intel",
     "keyword": "EARNINGS",
     "title": "Intel is the latest AI chipmaker to buckle under the weight of massive expectations",
@@ -341,12 +348,5 @@
     "title": "Intel posts profit even as it struggles to regain market share",
     "url": "https://financialpost.com/pmn/intel-posts-profit-even-as-it-struggles-to-regain-market-share",
     "timestamp": "2025-10-25T12:45:06.178601"
-  },
-  {
-    "stock": "Intel",
-    "keyword": "PROFIT",
-    "title": "Intel CFO says CEO Lip-Bu Tan is big on balance sheet discipline as U.S. and Nvidia funding accelerate turnaround",
-    "url": "https://fortune.com/2025/10/24/intel-cfo-says-ceo-lip-bu-tan-balance-sheet-discipline-u-s-nvidia-funding-accelerate-turnaround/",
-    "timestamp": "2025-10-25T12:45:05.907087"
   }
 ]
