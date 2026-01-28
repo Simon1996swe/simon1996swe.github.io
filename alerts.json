@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "BAN",
+    "title": "Emails show Bank of America's struggles with Nvidia AI: 'You have to help us as local car mechanics drive the race car!'",
+    "url": "https://www.businessinsider.com/bank-of-america-nvidia-ai-internal-emails-2026-1",
+    "timestamp": "2026-01-28T22:34:09.609874"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "FORECAST",
     "title": "Nvidia Launches AI Technologies to Aid Weather Forecasting",
     "url": "https://financialpost.com/pmn/business-pmn/nvidia-launches-ai-technologies-to-aid-weather-forecasting",
@@ -341,12 +348,5 @@
     "title": "Intel CFO says CEO Lip-Bu Tan is big on balance sheet discipline as U.S. and Nvidia funding accelerate turnaround",
     "url": "https://fortune.com/2025/10/24/intel-cfo-says-ceo-lip-bu-tan-balance-sheet-discipline-u-s-nvidia-funding-accelerate-turnaround/",
     "timestamp": "2025-10-25T12:45:07.203133"
-  },
-  {
-    "stock": "Intel",
-    "keyword": "PROFIT",
-    "title": "Intel posts profit even as it struggles to regain market share",
-    "url": "https://financialpost.com/pmn/intel-posts-profit-even-as-it-struggles-to-regain-market-share",
-    "timestamp": "2025-10-25T12:45:06.178601"
   }
 ]
