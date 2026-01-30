@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "EARNINGS",
+    "title": "Blockbuster chipmaker earnings from around the globe are giving US tech stocks a boost",
+    "url": "https://www.businessinsider.com/stock-market-today-sp500-nasdaq-record-high-chip-stocks-nvda-2026-1",
+    "timestamp": "2026-01-30T04:45:14.677971"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "BAN",
     "title": "Emails show Bank of America's struggles with Nvidia AI: 'You have to help us as local car mechanics drive the race car!'",
     "url": "https://www.businessinsider.com/bank-of-america-nvidia-ai-internal-emails-2026-1",
@@ -341,12 +348,5 @@
     "title": "Cambricon a.k.a. \u2018China\u2019s Nvidia\u2019 says revenue spiked 14-fold last quarter. The ensuing stock frenzy made its CEO one of the world\u2019s richest people",
     "url": "https://fortune.com/2025/10/24/cambricon-china-nvidia-revenue-stock-frenzy-ceo-chen-tianshi-worlds-richest-people/",
     "timestamp": "2025-10-25T12:45:07.402208"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "PROFIT",
-    "title": "Intel CFO says CEO Lip-Bu Tan is big on balance sheet discipline as U.S. and Nvidia funding accelerate turnaround",
-    "url": "https://fortune.com/2025/10/24/intel-cfo-says-ceo-lip-bu-tan-balance-sheet-discipline-u-s-nvidia-funding-accelerate-turnaround/",
-    "timestamp": "2025-10-25T12:45:07.203133"
   }
 ]
