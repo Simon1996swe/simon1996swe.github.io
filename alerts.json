@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "BAN",
+    "title": "Airbnb\u2019s Brian Chesky says CEOs don\u2019t have to be \u2018miserable\u2019\u2014that\u2019s why he got rid of emails and banned meetings before 10 a.m.",
+    "url": "https://fortune.com/article/airbnb-ceo-brian-chesky-work-life-balance-ceos-dont-have-to-be-miserable-banned-morning-meetings/",
+    "timestamp": "2026-02-08T18:47:09.659293"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "FORECAST",
     "title": "AMD Outlook Disappoints Investors Seeking Bigger AI Payoff",
     "url": "https://financialpost.com/pmn/business-pmn/amd-outlook-disappoints-investors-seeking-bigger-ai-payoff",
@@ -341,12 +348,5 @@
     "title": "AMD\u2019s Outlook Fails to Wow Investors After AI-Fueled Rally",
     "url": "https://financialpost.com/pmn/business-pmn/amds-outlook-fails-to-wow-investors-after-ai-fueled-rally",
     "timestamp": "2025-11-06T13:36:12.365164"
-  },
-  {
-    "stock": "Intel",
-    "keyword": "BAN",
-    "title": "Intel in talks to acquire AI chip startup SambaNova",
-    "url": "https://www.bloomberg.com/news/articles/2025-10-30/intel-in-talks-to-acquire-ai-chip-startup-sambanova",
-    "timestamp": "2025-11-01T18:30:55.860245"
   }
 ]
