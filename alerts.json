@@ -2,6 +2,13 @@
   {
     "stock": "NVIDIA",
     "keyword": "BAN",
+    "title": "\u2018Our investments are beginning to pay off\u2019: AI boom brings SoftBank back into the black",
+    "url": "https://fortune.com/2026/02/12/softbank-earnings-profits-ai-boom-nvidia-openai/",
+    "timestamp": "2026-02-13T15:50:59.751499"
+  },
+  {
+    "stock": "NVIDIA",
+    "keyword": "BAN",
     "title": "Want to invest like a Catholic? The Vatican has a new stock index for that.",
     "url": "https://www.businessinsider.com/vatican-bank-catholic-stock-indexes-faith-based-investing-portfolio-morningstar-2026-2",
     "timestamp": "2026-02-12T19:11:55.185130"
@@ -341,12 +348,5 @@
     "title": "Nvidia falls as much as 4.2% amid lurch downward as traders digest earnings",
     "url": "https://fortune.com/2025/11/06/stocks-fall-earnings-nvidia-tech-stocks-selloff/",
     "timestamp": "2025-11-07T19:20:15.366340"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "REVENUE",
-    "title": "AMD\u2019s Outlook Fails to Wow Investors After AI-Fueled Rally",
-    "url": "https://financialpost.com/pmn/business-pmn/amds-outlook-fails-to-wow-investors-after-ai-fueled-rally",
-    "timestamp": "2025-11-06T13:36:12.947109"
   }
 ]
