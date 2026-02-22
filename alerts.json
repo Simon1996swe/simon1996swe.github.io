@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "BAN",
+    "title": "Nvidia and OpenAI abandon unfinished US$100 billion deal",
+    "url": "https://financialpost.com/financial-times/nvidia-openai-abandon-unfinished-deal",
+    "timestamp": "2026-02-22T02:46:40.210899"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "PROFIT",
     "title": "AI may unleash a 'revenge of the dinosaurs' as corporate giants boost profits, hedge fund exec says",
     "url": "https://www.businessinsider.com/stock-market-ai-bubble-outlook-corporate-profits-tech-lone-pine-2026-2",
@@ -341,12 +348,5 @@
     "title": "Softbank dumps its entire Nvidia portfolio worth $5.8 billion as its CEO goes all-in on OpenAI\u00a0to the tune of $30 billion",
     "url": "https://fortune.com/2025/11/11/softbank-nvidia-openai-masayoshi-son-sam-altman-investment/",
     "timestamp": "2025-11-12T15:29:31.652489"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "PROFIT",
-    "title": "Japan\u2019s SoftBank says it has sold its shares in Nvidia for $5.8 billion, turning its focus to OpenAI",
-    "url": "https://financialpost.com/pmn/japans-softbank-says-it-has-sold-its-shares-in-nvidia-for-5-8-billion-turning-its-focus-to-openai",
-    "timestamp": "2025-11-12T14:26:55.540219"
   }
 ]
