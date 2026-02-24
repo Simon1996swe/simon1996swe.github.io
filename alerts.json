@@ -1,6 +1,20 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "EARNINGS",
+    "title": "S&P 500 falls on tariff questions, Nvidia gains before earnings",
+    "url": "https://financialpost.com/news/sp-500-falls-on-tariff-questions-nvidia-gains-before-earnings",
+    "timestamp": "2026-02-24T16:07:25.671140"
+  },
+  {
+    "stock": "NVIDIA",
+    "keyword": "EARNINGS",
+    "title": "S&P 500 Falls on Tariff Questions, Nvidia Gains Before Earnings",
+    "url": "https://financialpost.com/pmn/business-pmn/sp-500-falls-on-tariff-questions-nvidia-gains-before-earnings",
+    "timestamp": "2026-02-24T16:07:25.396388"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "BAN",
     "title": "Nvidia and OpenAI abandon unfinished US$100 billion deal",
     "url": "https://financialpost.com/financial-times/nvidia-openai-abandon-unfinished-deal",
@@ -334,19 +348,5 @@
     "title": "SoftBank just sold the world's hottest AI stock \u2014 so it can buy more AI",
     "url": "https://www.businessinsider.com/softbank-nvidia-openai-masayoshi-son-sam-altman-bubble-ai-stock2025-11",
     "timestamp": "2025-11-12T16:34:41.588009"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "EARNINGS",
-    "title": "3 takeaways about the AI race from SoftBank's earnings",
-    "url": "https://www.businessinsider.com/softbank-earnings-call-nvidia-openai-stargate-ai-bubble-race-2025-11",
-    "timestamp": "2025-11-12T15:29:31.904467"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "BAN",
-    "title": "Softbank dumps its entire Nvidia portfolio worth $5.8 billion as its CEO goes all-in on OpenAI\u00a0to the tune of $30 billion",
-    "url": "https://fortune.com/2025/11/11/softbank-nvidia-openai-masayoshi-son-sam-altman-investment/",
-    "timestamp": "2025-11-12T15:29:31.652489"
   }
 ]
