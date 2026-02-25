@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "MERGER",
+    "title": "Brookfield Launches Radiant as first vertically integrated AI Infrastructure Company Through Merger with Ori Industries",
+    "url": "https://financialpost.com/globe-newswire/brookfield-launches-radiant-as-first-vertically-integrated-ai-infrastructure-company-through-merger-with-ori-industries",
+    "timestamp": "2026-02-25T18:04:07.769388"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "EARNINGS",
     "title": "S&P 500 falls on tariff questions, Nvidia gains before earnings",
     "url": "https://financialpost.com/news/sp-500-falls-on-tariff-questions-nvidia-gains-before-earnings",
@@ -341,12 +348,5 @@
     "title": "Sinking Nvidia keeps Wall Street\u2019s gains in check",
     "url": "https://fortune.com/2025/11/11/wall-street-artifical-intelligence-nvidia-chip-stocks-technology-investors-coreweave-paramount-skydance/",
     "timestamp": "2025-11-12T20:28:58.758745"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "BAN",
-    "title": "SoftBank just sold the world's hottest AI stock \u2014 so it can buy more AI",
-    "url": "https://www.businessinsider.com/softbank-nvidia-openai-masayoshi-son-sam-altman-bubble-ai-stock2025-11",
-    "timestamp": "2025-11-12T16:34:41.588009"
   }
 ]
