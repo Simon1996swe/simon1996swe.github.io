@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "GUIDANCE",
+    "title": "What AI bubble? Nvidia posts record $68 billion quarterly revenue and $78 billion forecast, as Jensen Huang cites \u2018skyrocketing\u2019 adoption of agents",
+    "url": "https://fortune.com/2026/02/25/nvidia-nvda-earnings-q4-results-jensen-huang/",
+    "timestamp": "2026-02-26T23:36:49.967139"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "EARNINGS",
     "title": "Nvidia earnings loom as risk factor for AI-obsessed stock market",
     "url": "https://financialpost.com/investing/nvidia-earnings-risk-factor-ai-stock-market",
@@ -341,12 +348,5 @@
     "title": "Wall Street analysts are still bullish on Nvidia heading into Q3 earnings, even as investors turn skittish",
     "url": "https://www.businessinsider.com/nvidia-q3-earnings-preview-nvda-stock-wall-street-estimates-ai-2025-11",
     "timestamp": "2025-11-19T21:19:31.211182"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "EARNINGS",
-    "title": "European Stocks Fall Most Since August as Global Risk Assets Hit",
-    "url": "https://financialpost.com/pmn/business-pmn/european-stocks-fall-most-since-august-as-global-risk-assets-hit",
-    "timestamp": "2025-11-19T21:19:30.910273"
   }
 ]
