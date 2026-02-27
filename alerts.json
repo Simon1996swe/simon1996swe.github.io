@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "EARNINGS",
+    "title": "5 biggest takeaways from Nvidia's Q4 earnings \u2014 from the new Vera Rubin chips to addressing an emerging risk",
+    "url": "https://www.businessinsider.com/biggest-takeaways-from-nvidias-q4-earnings-vera-rubin-chips-2026-2",
+    "timestamp": "2026-02-27T02:38:45.196812"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "GUIDANCE",
     "title": "What AI bubble? Nvidia posts record $68 billion quarterly revenue and $78 billion forecast, as Jensen Huang cites \u2018skyrocketing\u2019 adoption of agents",
     "url": "https://fortune.com/2026/02/25/nvidia-nvda-earnings-q4-results-jensen-huang/",
@@ -341,12 +348,5 @@
     "title": "Nvidia CEO Jensen Huang isn't worried about a bubble. He says the AI boom is just getting started.",
     "url": "https://www.businessinsider.com/nvidia-earnings-q3-2026-jensen-huang-ceo-ai-boom-2025-11",
     "timestamp": "2025-11-21T01:58:13.008426"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "EARNINGS",
-    "title": "Wall Street analysts are still bullish on Nvidia heading into Q3 earnings, even as investors turn skittish",
-    "url": "https://www.businessinsider.com/nvidia-q3-earnings-preview-nvda-stock-wall-street-estimates-ai-2025-11",
-    "timestamp": "2025-11-19T21:19:31.211182"
   }
 ]
