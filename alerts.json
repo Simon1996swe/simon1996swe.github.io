@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "BAN",
+    "title": "OpenAI just closed a $110 billion funding round",
+    "url": "https://www.businessinsider.com/openai-110-billion-funding-nvidia-amazon-softbank-2026-2",
+    "timestamp": "2026-03-01T08:39:31.275240"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "EARNINGS",
     "title": "'Big Short' investor Michael Burry warns a 'troubling' number in Nvidia's earnings could be 'catastrophic' for its finances",
     "url": "https://www.businessinsider.com/big-short-michael-burry-nvidia-risk-earnings-stock-ai-bubble-2026-2",
@@ -341,12 +348,5 @@
     "title": "Wall Street says Nvidia's blockbuster earnings prove the AI boom is nowhere near its peak",
     "url": "https://www.businessinsider.com/nvidia-earnings-wall-street-analyst-blockbuster-q3-ai-boom-bubble-2025-11",
     "timestamp": "2025-11-21T06:38:36.991134"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "EARNINGS",
-    "title": "Nvidia CEO Jensen Huang earnings call namechecked Saudi AI company Humain three times. Here\u2019s why",
-    "url": "https://fortune.com/2025/11/19/nvidia-jensen-huang-earnings-humain-saudi-arabia/",
-    "timestamp": "2025-11-21T04:30:13.648591"
   }
 ]
