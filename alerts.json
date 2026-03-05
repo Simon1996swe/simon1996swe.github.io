@@ -1,5 +1,12 @@
 [
   {
+    "stock": "NVIDIA",
+    "keyword": "PROFIT",
+    "title": "Warren Buffett complained for decades that boosting profits by excluding exec stock comp was \u2018cynical\u2019\u2014Nvidia just surprised Wall Street and agreed",
+    "url": "https://fortune.com/2026/03/04/berkshire-hathaway-nvidia-warren-buffett-jensen-huang-changes-employee-stock-compensation-costs-gaap-earnings/",
+    "timestamp": "2026-03-05T08:53:26.399471"
+  },
+  {
     "stock": "Intel",
     "keyword": "REVENUE",
     "title": "GIGABYTE Powers Telecom AI Transformation with End-to-End Infrastructure at MWC 2026",
@@ -341,12 +348,5 @@
     "title": "Why Nvidia's big earnings report couldn't revive the stock market rally after all",
     "url": "https://www.businessinsider.com/stock-market-selloff-nvidia-earnings-jobs-report-tech-valuations-ai-2025-11",
     "timestamp": "2025-11-22T07:22:14.637765"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "EARNINGS",
-    "title": "Wall Street is rushing to raise price targets on Nvidia after spectacular earnings",
-    "url": "https://www.businessinsider.com/nvidia-stock-price-prediction-nvda-earnings-q3-jensen-huang-bubble-2025-11",
-    "timestamp": "2025-11-22T07:22:14.390307"
   }
 ]
