@@ -1,5 +1,12 @@
 [
   {
+    "stock": "Frequency Electronics",
+    "keyword": "REVENUE",
+    "title": "Frequency Electronics, Inc. Announces Third Quarter and Fiscal Year 2026 Financial Results",
+    "url": "https://financialpost.com/globe-newswire/frequency-electronics-inc-announces-third-quarter-and-fiscal-year-2026-financial-results",
+    "timestamp": "2026-03-13T10:46:10.367821"
+  },
+  {
     "stock": "NVIDIA",
     "keyword": "PROFIT",
     "title": "Warren Buffett complained for decades that boosting profits by excluding exec stock comp was \u2018cynical\u2019\u2014Nvidia just surprised Wall Street and agreed",
@@ -341,12 +348,5 @@
     "title": "Global stocks in meltdown as Wall Street bails out of crypto and AI: \u2018The bubbly is on ice\u2019",
     "url": "https://fortune.com/2025/11/21/stocks-wall-street-bitcoin-price-ai-bubbly-on-ice/",
     "timestamp": "2025-11-22T12:45:39.192604"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "EARNINGS",
-    "title": "Why Nvidia's big earnings report couldn't revive the stock market rally after all",
-    "url": "https://www.businessinsider.com/stock-market-selloff-nvidia-earnings-jobs-report-tech-valuations-ai-2025-11",
-    "timestamp": "2025-11-22T07:22:14.637765"
   }
 ]
