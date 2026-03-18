@@ -1,5 +1,12 @@
 [
   {
+    "stock": "NVIDIA",
+    "keyword": "FORECAST",
+    "title": "Nvidia just forecast $1 trillion in AI demand. So why isn\u2019t Jensen Huang a target of AI backlash?",
+    "url": "https://fortune.com/2026/03/17/nvidia-just-forecast-1-trillion-in-ai-demand-so-why-isnt-jensen-huang-a-target-of-ai-backlash/",
+    "timestamp": "2026-03-18T17:09:56.955423"
+  },
+  {
     "stock": "Frequency Electronics",
     "keyword": "REVENUE",
     "title": "Frequency Electronics, Inc. Announces Third Quarter and Fiscal Year 2026 Financial Results",
@@ -341,12 +348,5 @@
     "title": "Why Nvidia is being punished for delivering a blockbuster earnings report",
     "url": "https://fortune.com/2025/11/21/nvidia-stock-price-punished-earnings/",
     "timestamp": "2025-11-23T11:19:26.940592"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "EARNINGS",
-    "title": "Global stocks in meltdown as Wall Street bails out of crypto and AI: \u2018The bubbly is on ice\u2019",
-    "url": "https://fortune.com/2025/11/21/stocks-wall-street-bitcoin-price-ai-bubbly-on-ice/",
-    "timestamp": "2025-11-22T12:45:39.192604"
   }
 ]
