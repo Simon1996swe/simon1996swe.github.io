@@ -1,5 +1,12 @@
 [
   {
+    "stock": "NVIDIA",
+    "keyword": "BAN",
+    "title": "China AI Firm Discloses $92 Million of Banned Nvidia Chip Servers to Beijing",
+    "url": "https://financialpost.com/pmn/business-pmn/china-ai-firm-discloses-92-million-of-banned-nvidia-chip-servers-to-beijing",
+    "timestamp": "2026-04-11T10:42:00.934256"
+  },
+  {
     "stock": "EQT",
     "keyword": "PROFIT",
     "title": "Top US Natural Gas Drillers Seek to Remove Middlemen From Sales",
@@ -341,12 +348,5 @@
     "title": "San Francisco is taking on ultraprocessed food in a new lawsuit",
     "url": "https://www.businessinsider.com/san-francisco-lawsuit-ultraprocessed-food-brands-2025-12",
     "timestamp": "2025-12-04T09:31:37.405089"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "BAN",
-    "title": "'I don't want to sell a single share': SoftBank boss Masayoshi Son says he was crying over dumping Nvidia stock",
-    "url": "https://www.businessinsider.com/softbank-nvidia-stake-sold-openai-investment-nvda-sftby-masayoshi-son-2025-12",
-    "timestamp": "2025-12-03T04:33:55.515502"
   }
 ]
