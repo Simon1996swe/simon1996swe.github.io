@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "ACQUISITION",
+    "title": "Dell, HP Inc. shares jump on Nvidia acquisition speculation report",
+    "url": "https://financialpost.com/technology/tech-news/dell-hp-shares-jump-nvidia-acquisition-speculation",
+    "timestamp": "2026-04-15T06:04:05.107065"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "BAN",
     "title": "China AI Firm Discloses $92 Million of Banned Nvidia Chip Servers to Beijing",
     "url": "https://financialpost.com/pmn/business-pmn/china-ai-firm-discloses-92-million-of-banned-nvidia-chip-servers-to-beijing",
@@ -341,12 +348,5 @@
     "title": "San Francisco sues nation\u2019s top food manufacturers over ultraprocessed foods",
     "url": "https://financialpost.com/pmn/san-francisco-sues-nations-top-food-manufacturers-over-ultraprocessed-foods",
     "timestamp": "2025-12-04T09:31:37.713892"
-  },
-  {
-    "stock": "Coca-Cola",
-    "keyword": "LAWSUIT",
-    "title": "San Francisco is taking on ultraprocessed food in a new lawsuit",
-    "url": "https://www.businessinsider.com/san-francisco-lawsuit-ultraprocessed-food-brands-2025-12",
-    "timestamp": "2025-12-04T09:31:37.405089"
   }
 ]
