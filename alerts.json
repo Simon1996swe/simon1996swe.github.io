@@ -1,5 +1,12 @@
 [
   {
+    "stock": "POET Technologies",
+    "keyword": "APPROVAL",
+    "title": "POET Technologies Provides Clarity on its Passive Foreign Investment Company (PFIC) Status",
+    "url": "https://financialpost.com/globe-newswire/poet-technologies-provides-clarity-on-its-passive-foreign-investment-company-pfic-status",
+    "timestamp": "2026-04-16T06:06:41.361032"
+  },
+  {
     "stock": "NVIDIA",
     "keyword": "ACQUISITION",
     "title": "Dell, HP Inc. shares jump on Nvidia acquisition speculation report",
@@ -341,12 +348,5 @@
     "title": "Nvidia\u2019s Jensen Huang meets behind closed doors with Trump, then Republican senators",
     "url": "https://fortune.com/2025/12/04/nvidias-jensen-huang-trump-republican-senators-closed-door-meetings/",
     "timestamp": "2025-12-05T14:27:36.515476"
-  },
-  {
-    "stock": "Coca-Cola",
-    "keyword": "LAWSUIT",
-    "title": "San Francisco sues nation\u2019s top food manufacturers over ultraprocessed foods",
-    "url": "https://financialpost.com/pmn/san-francisco-sues-nations-top-food-manufacturers-over-ultraprocessed-foods",
-    "timestamp": "2025-12-04T09:31:37.713892"
   }
 ]
