@@ -1,6 +1,13 @@
 [
   {
     "stock": "NVIDIA",
+    "keyword": "BAN",
+    "title": "Jensen Huang bans one-on-one meetings, and Airbnb\u2019s Brian Chesky doesn\u2019t use email\u2014meet the CEOs with unconventional work-life rules",
+    "url": "https://fortune.com/2026/04/19/jensen-huang-one-on-one-meetings-airbnb-brian-chesky-email-ceo-work-life-rules/",
+    "timestamp": "2026-04-20T09:10:48.080577"
+  },
+  {
+    "stock": "NVIDIA",
     "keyword": "EARNINGS",
     "title": "This TSX stock soared over 400% with help from Nvidia. Where will it go from here?",
     "url": "https://financialpost.com/investing/this-tsx-stock-soared-help-nvidia",
@@ -341,12 +348,5 @@
     "title": "Frequency Electronics, Inc. Announces Second Quarter and Fiscal Year 2026 Financial Results",
     "url": "https://financialpost.com/globe-newswire/frequency-electronics-inc-announces-second-quarter-and-fiscal-year-2026-financial-results",
     "timestamp": "2025-12-12T21:24:41.110254"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "BAN",
-    "title": "Nvidia CEO Jensen Huang admits he works 7 days a week, including holidays, in a constant \u2018state of anxiety\u2019 out of fear of going bankrupt",
-    "url": "https://fortune.com/2025/12/04/nvidia-ceo-admits-he-works-7-days-a-week-including-holidays-in-a-constant-state-of-anxiety-out-of-fear-of-going-bankrupt/",
-    "timestamp": "2025-12-05T18:35:36.681208"
   }
 ]
