@@ -1,5 +1,33 @@
 [
   {
+    "stock": "Intel",
+    "keyword": "EARNINGS",
+    "title": "Chipmakers are on a 17-day heater. These 3 stocks could make or break the rally.",
+    "url": "https://www.businessinsider.com/philadelphia-semiconductor-index-sox-streak-key-stocks-rally-nvidia-intel-2026-4",
+    "timestamp": "2026-04-25T22:45:37.446812"
+  },
+  {
+    "stock": "Intel",
+    "keyword": "FORECAST",
+    "title": "Intel Shares Eclipse Dot-Com Peak on AI-Fueled Sales Forecast",
+    "url": "https://financialpost.com/pmn/business-pmn/intel-shares-eclipse-dot-com-peak-on-ai-fueled-sales-forecast",
+    "timestamp": "2026-04-25T22:45:36.988547"
+  },
+  {
+    "stock": "Intel",
+    "keyword": "REVENUE",
+    "title": "Intel soars 28% to surpass dot-com record highs after blowout sales forecast",
+    "url": "https://www.businessinsider.com/intel-stock-price-record-high-q1-earnigns-ai-cpus-intc-2026-4",
+    "timestamp": "2026-04-25T22:45:36.751022"
+  },
+  {
+    "stock": "Intel",
+    "keyword": "GUIDANCE",
+    "title": "Nasdaq 100 heads for record after Intel\u2019s blockbuster guidance",
+    "url": "https://financialpost.com/investing/nasdaq-100-record-intel-blockbuster-guidance",
+    "timestamp": "2026-04-25T22:45:36.460864"
+  },
+  {
     "stock": "WeRide",
     "keyword": "BAN",
     "title": "WeRide to Present at the dbVIC \u2013 Deutsche Bank ADR Virtual Investor Conference April 28th",
@@ -320,33 +348,5 @@
     "title": "Nvidia's Groq deal rattled Silicon Valley. Here are 5 other AI startups split apart in Big Tech's new deals.",
     "url": "https://www.businessinsider.com/nvidia-groq-deals-silicon-valley-2025-12",
     "timestamp": "2025-12-28T12:53:14.021216"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "FORECAST",
-    "title": "From gold to the world\u2019s largest company, 5 predictions for 2026. Plus, see how we did on 2025 forecasts",
-    "url": "https://financialpost.com/investing/5-predictions-for-2026",
-    "timestamp": "2025-12-27T12:52:08.889571"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "BAN",
-    "title": "'Big Short' investor Michael Burry warns the US will lose the AI race to China if it banks on Nvidia's 'power hungry' chips",
-    "url": "https://www.businessinsider.com/big-short-michael-burry-nvidia-chips-ai-china-tech-power-2025-12",
-    "timestamp": "2025-12-23T16:35:30.151879"
-  },
-  {
-    "stock": "Coca-Cola",
-    "keyword": "BAN",
-    "title": "Billionaire who sold two companies to Coca-Cola says he tries to convince people not to become entrepreneurs: \u2018Every single day, you can go bankrupt\u2019",
-    "url": "https://fortune.com/article/should-i-be-an-entrepreneur-mike-repole-career-advice/",
-    "timestamp": "2025-12-21T06:38:36.378516"
-  },
-  {
-    "stock": "Broadcom",
-    "keyword": "EARNINGS",
-    "title": "AI Stocks Get Pummeled as Oracle Delay Adds to Broadcom Concerns",
-    "url": "https://financialpost.com/pmn/business-pmn/ai-stocks-get-pummeled-as-oracle-delay-adds-to-broadcom-concerns",
-    "timestamp": "2025-12-14T02:19:13.631151"
   }
 ]
