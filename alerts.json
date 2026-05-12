@@ -1,5 +1,12 @@
 [
   {
+    "stock": "NVIDIA",
+    "keyword": "EARNINGS",
+    "title": "Nvidia, chipmakers lift stocks as advance defies war jitters",
+    "url": "https://financialpost.com/investing/chipmakers-tech-stocks-lift-market",
+    "timestamp": "2026-05-12T22:16:21.850134"
+  },
+  {
     "stock": "Frequency Electronics",
     "keyword": "REVENUE",
     "title": "Frequency Electronics Inc. Announces Three-Year Revenue Target of At Least $150 Million",
@@ -341,12 +348,5 @@
     "title": "Nvidia Says Its Revenue Forecast Has Only Grown More Bullish",
     "url": "https://financialpost.com/pmn/business-pmn/nvidia-says-its-revenue-forecast-has-only-grown-more-bullish",
     "timestamp": "2026-01-08T09:35:05.283004"
-  },
-  {
-    "stock": "NVIDIA",
-    "keyword": "PROFIT",
-    "title": "Nvidia\u2019s Groq bet shows that the economics of AI chip-building are still unsettled",
-    "url": "https://fortune.com/2025/12/30/nvidias-groq-bet-shows-that-the-economics-of-ai-chip-building-are-still-unsettled/",
-    "timestamp": "2026-01-01T04:12:41.295122"
   }
 ]
